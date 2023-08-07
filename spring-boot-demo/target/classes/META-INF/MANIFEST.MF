@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: vasudevseth
+Build-Jdk: 17.0.7
+Implementation-Title: spring-boot-demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.telstra
+Implementation-URL: https://spring.io/projects/spring-boot/spring-boot-d
+ emo
+Created-By: Maven Integration for Eclipse
+
